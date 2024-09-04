@@ -9,8 +9,8 @@
     <PackageReference Include="Microsoft.Playwright" Version="1.6.0" />
     <PackageReference Include="Nuke.Common" Version="5.3.0" />
     <PackageReference Include="Microsoft.VisualStudio.Interop" Version="11.0.0" />
-    <PackageReference Include="Microsoft.VisualStudio.SDK" Version="15.0.0" ExcludeAssets="runtime" />
-    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.5.4065" />
+    <PackageReference Include="Microsoft.VisualStudio.SDK" Version="15.0.1" ExcludeAssets="runtime" />
+    <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.11.435" />
   </ItemGroup>
 
 </Project>
